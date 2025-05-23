@@ -1,0 +1,1 @@
+Welcome to my personal portfolio website! This project showcases my interests, skills, and experiences in the field of Computer Science. It's designed to give visitors an overview of who I am as a developer and a learner.
